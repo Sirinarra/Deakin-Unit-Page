@@ -21,8 +21,9 @@ th, td {
     border-bottom: 1px solid #ddd;
     font-family: Arial;
 }
+
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
 }
 
